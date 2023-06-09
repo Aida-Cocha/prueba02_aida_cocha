@@ -24,10 +24,10 @@
     <string name="permission_explanation">Para guardar una imagen, la aplicación requiere permiso para escribir en el almacenamiento externo</string>
 
 
-    <string name="titulo_nombre">Email</string>
-    <string name="titulo_password">Password</string>
+    <string name="titulo_nombre">Usuario</string>
+    <string name="titulo_password">Contrasenia</string>
     <string name="hint_nombre">Ingrese el Email</string>
-    <string name="hint_password">Ingrese su Password</string>
+    <string name="hint_password">Ingrese su Contrasenia</string>
     <string name="titulo_finjuego">Felicidades Ganaste el Juego</string>
 
     <string name="button_salir">Salir</string>
