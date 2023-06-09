@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Dibujo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola</string>
+    <string name="button_erase">Borrar imagen</string>
+    <string name="button_set_color">Establecer color</string>
+    <string name="button_set_line_width">Establecer ancho de línea</string>
+    <string name="line_imageview_description">Esto muestra el grosor de la línea</string>
+    <string name="label_alpha">Alfa</string>
+    <string name="label_red">Rojo</string>
+    <string name="label_green">Verde</string>
+    <string name="label_blue">Azul</string>
+    <string name="menuitem_delete">Borrar dibujo</string>
+    <string name="menuitem_color">Color</string>
+    <string name="menuitem_line_width">Ancho de línea</string>
+    <string name="menuitem_save">Guardar</string>
+    <string name="menuitem_print">Imprimir</string>
+    <string name="message_erase">Borrar el dibujo?</string>
+    <string name="message_error_saving">Hubo un error al guardar la imagen</string>
+    <string name="message_saved">Su dibujo guardado se puede ver en la aplicación Fotos seleccionando Carpetas del dispositivo en el menú de esa aplicación.</string>
+    <string name="message_error_printing">Su dispositivo no soporta la impresión</string>
+    <string name="title_color_dialog">Escoger color</string>
+    <string name="title_line_width_dialog">Escoger ancho de línea</string>
+    <string name="permission_explanation">Para guardar una imagen, la aplicación requiere permiso para escribir en el almacenamiento externo</string>
+
+
+    <string name="titulo_nombre">Email</string>
+    <string name="titulo_password">Password</string>
+    <string name="hint_nombre">Ingrese el Email</string>
+    <string name="hint_password">Ingrese su Password</string>
+    <string name="titulo_finjuego">Felicidades Ganaste el Juego</string>
+
+    <string name="button_salir">Salir</string>
+    <string name="hint_cedula">Cédula:</string>
+    <string name="hint_nombreI">Nombre:</string>
+    <string name="hint_apellido">Apellido:</string>
+    <string name="hint_correo">Correo:</string>
+    <string name="hint_clave">Clave:</string>
+    <string name="button_registrar">Registrar</string>
+
+    <string name="titulo_Home">Bienvenido al programa</string>
+    <string name="button_IniciarQuizz">Iniciar Quizz</string>
+    <string name="button_CerrarSesion">Cerrar Sesion</string>
+    <string name="button_OpcionesUsuario">Opciones de usuario</string>
+
+    <string name="button_Editar">Guardar Cambios</string>
+    <string name="button_Eliminar">Eliminar Usuario</string>
+
+
+
+
+
+</resources>
