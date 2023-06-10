@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:onClick="Ingresar"
     android:orientation="vertical"
     tools:context=".Login_Activity">
 
@@ -20,44 +21,35 @@
         android:id="@+id/editText_nombre"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
         android:layout_margin="25px"
-        android:inputType="textPersonName"
-        android:hint="@string/hint_nombre" />
+        android:ems="10"
+        android:hint="@string/hint_nombre"
+        android:inputType="textPersonName" />
 
     <TextView
         android:id="@+id/textView_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="25px"
-        android:textSize="45px"
-        android:text="@string/titulo_password" />
+        android:text="@string/titulo_password"
+        android:textSize="45px" />
 
     <EditText
         android:id="@+id/editText_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
         android:layout_margin="25px"
-        android:inputType="textPassword"
-        android:hint="@string/hint_password"/>
+        android:ems="10"
+        android:hint="@string/hint_password"
+        android:inputType="textPassword" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="25px"
-        android:onClick="IniciarSesion"
+        android:onClick="Ingresar"
         android:text="Ingresar" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="25px"
-        android:onClick="Registrar"
-        android:text="Registrar" />
-
 
 
 </LinearLayout>

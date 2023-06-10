@@ -10,11 +10,19 @@ public class Usuario {
     private String Clave;
 
 
+    public  Usuario(){
+
+    }
     public Usuario(int id, String cedula, String nombre, String apellido, String correo, String clave) {
         Id = id;
         Cedula = cedula;
         Nombre = nombre;
         Apellido = apellido;
+        Correo = correo;
+        Clave = clave;
+    }
+
+    public Usuario(String correo, String clave) {
         Correo = correo;
         Clave = clave;
     }

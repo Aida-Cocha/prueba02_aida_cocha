@@ -36,7 +36,7 @@
     <string name="hint_apellido">Apellido:</string>
     <string name="hint_correo">Correo:</string>
     <string name="hint_clave">Clave:</string>
-    <string name="button_registrar">Registrar</string>
+
 
     <string name="titulo_Home">Bienvenido al programa</string>
     <string name="button_IniciarQuizz">Iniciar Quizz</string>
@@ -45,9 +45,6 @@
 
     <string name="button_Editar">Guardar Cambios</string>
     <string name="button_Eliminar">Eliminar Usuario</string>
-
-
-
 
 
 </resources>
